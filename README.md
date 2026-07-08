@@ -8,19 +8,19 @@ This project is a formula-driven three-statement financial model built in Micros
 
 ### Income Statement
 
-![Income Statement](Income Statement.png)
+![Income Statement](Income_Statement.png)
 
 ### Balance Sheet
 
-![Balance Sheet](Balance Sheet.png)
+![Balance Sheet](Balance_Sheet.png)
 
 ### Cash Flow Statement
 
-![Cash Flow Statement](Cashflow Statement.png)
+![Cash Flow Statement](Cashflow_Statement.png)
 
 ### Capital Expenditure & Depreciation Schedule
 
-![Capex & Depreciation](Capex and Depreciation Schedule.png)
+![Capex & Depreciation](Capex_Depreciation_Schedule.png)
 
 ## Key Highlights
 
