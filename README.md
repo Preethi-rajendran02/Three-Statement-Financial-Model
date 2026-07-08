@@ -43,9 +43,6 @@ This project is a formula-driven three-statement financial model built in Micros
 - Microsoft Excel
 - Financial Modeling
 - Excel Formulas
-- IF
-- SUM
-- INDEX & MATCH
 - Cell Referencing
 
 ## Skills Demonstrated
